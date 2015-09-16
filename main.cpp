@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     
     rect.print();
     
-    const char* l = "m";
+    const char l = "m";
     rect.drawArea(l);
     
     return 0;
